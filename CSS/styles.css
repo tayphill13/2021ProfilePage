@@ -24,6 +24,15 @@ h3  {
 p  {
   line-height: 2;
 }
+a  {
+  color: #7c7c7c;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #b8bbbb;
+}
 hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
@@ -85,6 +94,11 @@ hr {
 .contact-method  {
   width: 40%;
   margin: 40px auto 60px;
+}
+.copyright {
+  color: #d2fcff;
+  font-size: 0.75rem;
+  padding: 20px 0;
 }
 
 /* Buttons */
