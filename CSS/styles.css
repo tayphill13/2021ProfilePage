@@ -1,17 +1,20 @@
 body {
   margin: 0;
+  text-align: center;
 }
 
 h1  {
   margin-top: 0;
-  color: #f07d36;
+  /* color: #f07d36; */
 }
 p  {
-  color: #f07d36;
+  /* color: #f07d36; */
 }
 
 .top-container {
   background-color: #5fdde5;
+  position: relative;
+  padding-top: 100px;
 }
 
 .middle-container {
