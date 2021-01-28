@@ -26,7 +26,11 @@ h3  {
   left: 30%;
   bottom: 300px;
 }
-
+.profile-pic {
+  margin-top: 2em;
+  border-radius: 20%;
+  height: 300px;
+}
 .top-container {
   background-color: #5fdde5;
   position: relative;
@@ -34,11 +38,10 @@ h3  {
 }
 .middle-container {
   background-color: #f4ea8e;
-  height: 200px;
-  width: 200px
+}
+.contact-me {
+  background-color: #f37121;
 }
 .bottom-container {
   background-color: #d92027;
-  height: 200px;
-  width: 200px;
 }
