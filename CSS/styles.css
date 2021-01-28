@@ -39,6 +39,11 @@ hr {
   width: 4%;
   margin: 100px auto;
 }
+img {
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+}
 
 .top-cloud {
   position: absolute;
