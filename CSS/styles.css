@@ -63,14 +63,9 @@ h3  {
   float: left;
   margin-right: 30px;
 }
-.coding-description  {
-  clear: left;
-}
+
 .chillies-pic {
   width: 25%;
   float: right;
   margin-left: 30px;
-}
-.cooking-description {
-  clear: right;
 }
