@@ -53,4 +53,14 @@ h3  {
 .skill-row  {
   width: 50%;
   margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computer-pic {
+  width: 25%;
+  float: left;
+}
+.chillies-pic {
+  width: 25%;
+  float: left;
 }
