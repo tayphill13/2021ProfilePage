@@ -103,6 +103,7 @@ hr {
 .link-to-food {
   text-decoration: none;
   font-family: 'Merriweather Sans', sans-serif;
+  color: #829995;
 }
 .link-to-food:hover  {
   color:#2185c7;
